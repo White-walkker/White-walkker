@@ -1,7 +1,7 @@
 # Hi, I'm Yashasvi Tripathi 👋
 
-Data Analyst & Database Developer.  
-Ex-Ernst & Young (GDS) | Currently learning Machine Learning & Database Design.
+Data Engineer  
+Ex- Data Analyst @Ernst & Young| Currently learning Machine Learning & Database Design.
 
 ---
 
