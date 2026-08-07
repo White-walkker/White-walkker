@@ -17,7 +17,7 @@ Ex- Data Analyst @Ernst & Young| Currently learning Machine Learning & Database 
 
 ---
 
-📫 tripathiyashasvi090@gmail.com · *Open to Data Analyst & Database Developer roles*
+📫 tripathiyashasvi090@gmail.com · *Open to Data Engineer & Data Analyst roles*
 <!---
 White-walkker/White-walkker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
