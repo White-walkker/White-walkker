@@ -1,7 +1,7 @@
 # Hi, I'm Yashasvi Tripathi 👋
 
 Data Engineer  
-Ex- Data Analyst @Ernst & Young| Currently learning Machine Learning & Database Design.
+Ex- Data Analyst at Ernst & Young| Currently learning Machine Learning & Database Design.
 
 ---
 
